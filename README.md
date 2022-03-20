@@ -1,3 +1,7 @@
+open it as a raw
+
+
+
 {"version":"++Fortnite+Release-19.40-CL-19215531-Windows"
 
   UWorld 0xB973AA8
